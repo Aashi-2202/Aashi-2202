@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hey there 👋 I'm Aashi
 
-<!--
-**Aashi-2202/Aashi-2202** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science undergrad who’s curious about how things work — especially when it comes to machine learning, data science, and the rapid changes happening in tech.
 
-Here are some ideas to get you started:
+Right now, I’m learning more about:
+- Python and C programming
+- The basics of machine learning
+- Real-world applications of tech in areas like agriculture and automation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 How to reach me
+- Email: mail.aashiagr@gmail.com  
+- LinkedIn: [linkedin.com/in/aashi-agarwal-8ba8a3286](https://www.linkedin.com/in/aashi-agarwal-8ba8a3286/)
+
+## 🛠️ Tech I’m working with
+- Python  
+- C  
+- A bit of machine learning (still learning!)
+
+## 🔧 Projects
+Still filling this space — working on some ideas I’m excited to share soon.
+
+## 📊 GitHub Stats (because why not)
+![Aashi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aashi-2202&show_icons=true&theme=default)
+
+---
+
+Thanks for stopping by! 😊
