@@ -19,9 +19,6 @@ Right now, I’m learning more about:
 ## 🔧 Projects
 Still filling this space — working on some ideas I’m excited to share soon.
 
-## 📊 GitHub Stats (because why not)
-![Aashi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aashi-2202&show_icons=true&theme=default)
-
 ---
 
 Thanks for stopping by! 😊
